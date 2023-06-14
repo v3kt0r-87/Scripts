@@ -4,7 +4,6 @@
 
 script_dir=$(dirname "$0")
 
-
 # Author information
 
 author_info() {
